@@ -1,0 +1,77 @@
+body {
+font-family: Arial, Helvetica, sans-serif;
+background-image: url(https://www.amtrak.com/content/dam/projects/dotcom/english/public/images/heros/Station_Denver_HeroBanner_1_0.jpg/_jcr_content/renditions/cq5dam.web.2125.1195.jpeg); 
+background-position: stretch;
+}
+h2 {
+	text-align: left;
+	color: blue;
+	text-shadow: 3px;
+	margin-left: 25px;
+}
+.table{
+	padding: 25px;
+	width: 100%;
+	margin: 3px;
+	background: #87cefa;
+	border-block-end-width: 5px;
+	border-block-end-style: solid;
+	border-color: darkblue;
+
+}
+
+form {
+	background-color:lightskyblue;
+	margin: 5px;
+	padding: 25px;
+	margin-left: 15px;
+	border-width: 3px;
+	border-color: darkblue;
+}
+.form-control {
+	margin-left: 10px;
+	width: 45%;
+	display: inline-block;
+	border-color: blue;
+	margin-bottom: 10px;
+}
+.btn {
+	margin-left: 10px;
+	margin-bottom: 10px;
+	background-color: darkblue;
+}
+label{
+	font-size: 20px;
+	font-style: normal;
+	color: black;
+	margin-left: 10px;
+	column-rule-width: 10px;
+}
+.jumbotron {
+	text-align: center;
+	background-color:rgb(4, 27, 41);
+	padding-top: 1%;
+	padding-bottom: 2%;
+}
+.row {
+	margin: 10px;
+}
+h1 {
+	-webkit-text-fill-color: aqua;
+	margin: 5px;
+}
+.td {
+	padding-top: 0.25%;
+	color: darkmagenta;
+	margin: 10px;
+}
+.th {
+	margin: 10px;
+	margin-right: -20px;
+	width: 5px;
+}
+/*@media screen and (max-width: 640px){
+	container{
+		width: 100%;
+	}
+}*/
